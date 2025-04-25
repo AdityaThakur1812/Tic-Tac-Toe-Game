@@ -1,1 +1,1 @@
-# Tic-Tac-Toe-Game
+Tic Tac Toe Game is a simple two-player game played on a 3x3 grid. Players take turns to place their respective symbol ('X' or 'O') on the board. The goal is to get three of their symbols in a row, either horizontally, vertically, or diagonally, before the other player. The game ends when one player wins or when the board is full, resulting in a draw. This console-based Java implementation allows players to interact with the game, making moves and tracking the game’s progress in real-time.
